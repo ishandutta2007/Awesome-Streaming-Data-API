@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Streaming-Data-API"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Streaming-Data-API?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Streaming-Data-API"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Streaming-Data-API?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Streaming-Data-API/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Streaming-Data-API?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Streaming-Data-API/stargazers"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Streaming-Data-API?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,9 +69,9 @@ The sector is **moderately fragmented**:
 
 Below is a curated collection of leading open-source projects for building, processing, and maintaining streaming data pipelines.
 
-*(Sorted by GitHub Star Count Descending)*
+*(Sorted by GitHub Stars_Count Descending)*
 
-| Repository 📦 | GitHub Stars ⭐ | License 📜 | Description & Key Capabilities 💡 |
+| Repository 📦 | GitHub_Stars ⭐ | License 📜 | Description & Key Capabilities 💡 |
 | :--- | :--- | :--- | :--- |
 | **[Apache Spark](https://github.com/apache/spark)** | [<img src="https://img.shields.io/github/stars/apache/spark?style=social&color=white" alt="Spark Stars"/>](https://github.com/apache/spark/stargazers) | Apache-2.0 | Unified analytics engine for large-scale data processing & Structured Streaming micro-batches. |
 | **[Socket.IO](https://github.com/socketio/socket.io)** | [<img src="https://img.shields.io/github/stars/socketio/socket.io?style=social&color=white" alt="SocketIO Stars"/>](https://github.com/socketio/socket.io/stargazers) | MIT | Real-time, bidirectional, event-based communication framework with WebSocket fallbacks. |
